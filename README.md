@@ -1,4 +1,4 @@
 ### Olá! Eu sou o Ian Andriani 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![ianandriani GitHub stats](https://github-readme-stats.vercel.app/api?username=ianandriani&show_icons=true&theme=radical)
